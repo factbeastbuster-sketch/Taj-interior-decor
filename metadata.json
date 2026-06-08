@@ -1,0 +1,6 @@
+{
+  "name": "Taj Interior Decor",
+  "description": "An elegant interior design showcase and booking app with a luxury black and amber theme, featuring an AI design consultant and instant appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
